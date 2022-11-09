@@ -1,4 +1,6 @@
 ## Hi there 👋
+Were Hyposyn Software. Hyposyn specializes in HTML, CSS, Javascript, C++, and Python.
+
 
 <!--
 
