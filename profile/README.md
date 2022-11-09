@@ -1,14 +1,3 @@
-## Hi there 👋
-Were Hyposyn Software. Hyposyn specializes in HTML, CSS, Javascript, C++, and Python.
-
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+# Hyposyn Software
+<p align="left">Hyposyn Software is a software development team specializing in C++ and Snap!.</p>
+<img src="5AF714AD-94C4-4498-B92E-F7E27E4FD935.png" align="right">
