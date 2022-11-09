@@ -1,1 +1,1 @@
-# .github
+# Hyposyn Software
